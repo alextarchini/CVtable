@@ -1,0 +1,54 @@
+body {
+    background-color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#page {
+    background-color: gray;
+    margin-left: 10%;
+    margin-top: 20px; 
+}
+#text {
+    background-color: white; 
+    border: 1px solid gray; 
+}
+caption {
+    float: left; 
+    margin-left: 20px; 
+    color:white; 
+    background: rgb(68, 153, 202); 
+}
+h1{
+    color: rgb(68, 153, 202);
+}
+h2 {
+    font-size: 20px; 
+}
+h3 {
+    color: rgb(68, 153, 202);
+    font-size: 14px; 
+}
+p {
+    font-size: 12px;  
+}
+th {
+    color: rgb(68, 153, 202);
+    font-size: 20px;
+}
+table, th, td {
+     border-collapse: collapse; 
+}
+
+th, td {
+    padding: 15px; 
+}
+th {
+    text-align: left; 
+}
+table {
+    width: 90%;
+    margin: 0 auto; 
+}
+label {
+    padding-right: 10px; 
+    font-size: 1rem; 
+}
